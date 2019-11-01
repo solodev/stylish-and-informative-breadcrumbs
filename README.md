@@ -8,7 +8,6 @@ For detailed instruction's, view Solodev's [How to Create Stylish and Informativ
 Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/ywuph549/).
 
 ## HTML
-
 The tutorial contains the following basic HTML markup.
 
 ```
